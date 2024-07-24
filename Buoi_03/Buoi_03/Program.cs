@@ -6,7 +6,7 @@ class Program
     {
         int[] array = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
         int sum = SumArrayNonRecursive(array);
-        Console.WriteLine("Tổng : " + sum);
+        Console.WriteLine("Tong : " + sum);
         Console.ReadKey();
     }
 
