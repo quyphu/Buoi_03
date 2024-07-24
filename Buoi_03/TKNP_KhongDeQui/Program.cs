@@ -27,6 +27,6 @@ class Program
                 right = mid - 1;
         }
 
-        return -1; // Không tìm thấy
+        return -1;
     }
 }
