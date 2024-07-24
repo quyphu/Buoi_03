@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort6PT", "QuickSort6P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKNP_KhongDeQui", "TKNP_KhongDeQui\TKNP_KhongDeQui.csproj", "{F423E460-41AE-409C-AA43-24287DD2467F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKNP_DeQui", "TKNP_DeQui\TKNP_DeQui.csproj", "{FE7A1D97-073F-4AD2-B7D3-1B77A0945762}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F423E460-41AE-409C-AA43-24287DD2467F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F423E460-41AE-409C-AA43-24287DD2467F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F423E460-41AE-409C-AA43-24287DD2467F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE7A1D97-073F-4AD2-B7D3-1B77A0945762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7A1D97-073F-4AD2-B7D3-1B77A0945762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7A1D97-073F-4AD2-B7D3-1B77A0945762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7A1D97-073F-4AD2-B7D3-1B77A0945762}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

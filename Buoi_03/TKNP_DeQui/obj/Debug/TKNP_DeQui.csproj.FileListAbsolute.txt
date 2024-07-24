@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_Buoi03\Buoi_03\TKNP_DeQui\bin\Debug\TKNP_DeQui.exe.config
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_Buoi03\Buoi_03\TKNP_DeQui\bin\Debug\TKNP_DeQui.exe
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_Buoi03\Buoi_03\TKNP_DeQui\bin\Debug\TKNP_DeQui.pdb
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_Buoi03\Buoi_03\TKNP_DeQui\obj\Debug\TKNP_DeQui.exe
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_Buoi03\Buoi_03\TKNP_DeQui\obj\Debug\TKNP_DeQui.pdb
