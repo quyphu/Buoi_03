@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi_03", "Buoi_03\Buoi_03.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TongMangDeQui", "TongMangDeQui\TongMangDeQui.csproj", "{03702B79-C7BB-4D43-9196-EB64DCC7E427}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort6PT", "QuickSort6PT\QuickSort6PT.csproj", "{B5037259-A472-427B-9A73-536DAA766966}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{03702B79-C7BB-4D43-9196-EB64DCC7E427}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03702B79-C7BB-4D43-9196-EB64DCC7E427}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03702B79-C7BB-4D43-9196-EB64DCC7E427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5037259-A472-427B-9A73-536DAA766966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5037259-A472-427B-9A73-536DAA766966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5037259-A472-427B-9A73-536DAA766966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5037259-A472-427B-9A73-536DAA766966}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
